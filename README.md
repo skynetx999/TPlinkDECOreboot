@@ -1,6 +1,6 @@
 Script for rebooting Deco units create in Pyton and run on Raspberry Pi OS
 
-Install phyton 3, selenium and Chromium web browser set up IP and your password
+Install phyton 3, selenium and Chromium web browser set up IP and your password in script TPlinkDecoReboot2.py
 
 In Cronetab -e create automatic task for example:
 
