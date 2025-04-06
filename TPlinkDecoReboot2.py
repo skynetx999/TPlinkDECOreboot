@@ -11,8 +11,8 @@ from time import sleep
 
 # User data directly integrated
 user_data = {
-    "ip": "192.168.68.1",
-    "password": "TPlinkAbsolon123",
+    "ip": "192.168.1.1",# your password IP
+    "password": "Tvojeheslo",# your password
     "browser": "Chrome",
     "browser_display": "yes",
     "execute_reboot": "yes",
